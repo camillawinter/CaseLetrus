@@ -18,3 +18,7 @@ Dashboard:
 
 Arquivo CSV dos endereços gerados:
 [endereco1.csv](https://github.com/camillawinter/CaseLetrus/files/9312101/endereco1.csv)
+Arquivo CSV dados ativo:
+[Ds5.csv](https://github.com/camillawinter/CaseLetrus/files/9312133/Ds5.csv)
+Arquivo CSV dados genero:
+[Ds6.txt](https://github.com/camillawinter/CaseLetrus/files/9312135/Ds6.txt)
