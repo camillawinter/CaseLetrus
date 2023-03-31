@@ -1,5 +1,5 @@
-# Case Técnico Letrus
-Case técnico Letrus - Analista de Dados Pleno
+# Case Técnico
+Case técnico - Empresa no ramo da educação
 
 No arquivo Scripts Case estão todos os scripts que criei e utilizei no MySQL server, respostas das questões da Fase 2 e algumas considerações que fiz.
 
